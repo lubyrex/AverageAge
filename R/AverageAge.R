@@ -5,10 +5,11 @@
 # https://gist.github.com/benmarwick/11333467 downloads
 # the file
 
-
+.onLoad <- function(libname,pkgname)
+{
 required <<- 0
 actualData <<- NULL
-
+}
 # http://www.inside-r.org/packages/cran/tm/docs/readPDF
 #Required function for every methods
 #' Data extrapolation

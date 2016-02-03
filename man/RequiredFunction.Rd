@@ -7,7 +7,7 @@
 RequiredFunction()
 }
 \value{
-Returns the average of \code{actualData}.
+Returns \code{actualData}.
 }
 \description{
 \code{RequiredFunction} returns the data set actualData.

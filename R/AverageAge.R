@@ -1,22 +1,17 @@
 
 
-# https://github.com/gimoya/theBioBucket-Archives/blob/master/R/txtmining_pdf.R
-# http://stackoverflow.com/questions/17563896/readpdf-tm-package-in-r/19926301#19926301
-# https://gist.github.com/benmarwick/11333467 downloads
-# the file
-
 .onAttach <- function(libname,pkgname)
 {
 required <<- 0
 actualData <<- NULL
 }
-# http://www.inside-r.org/packages/cran/tm/docs/readPDF
+
 #Required function for every methods
 #' Data extrapolation
 #'
 #' \code{RequiredFunction} returns the data set actualData.
 #'
-#' @return Returns the average of \code{actualData}.
+#' @return Returns \code{actualData}.
 #'
 #' @export
 RequiredFunction <- function() {
@@ -166,11 +161,4 @@ PrintAll <- function(){
 
 }
 
-
-
-# data frame?probably matrix BaData<-data.frame(BaTxt)
-# BsData<-data.frame(BsTxt)
-
-# good stuff:
-# http://stackoverflow.com/questions/9424311/how-to-get-mean-median-and-other-statistics-over-entire-matrix-array-or-dataf
 

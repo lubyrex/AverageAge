@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: AverageAge\nType: Package\nTitle: An Estimate of Williams Professors' Average Age\nVersion: 0.1\nDate: 2016-01-24\nAuthors@R: person(\"Youle\", \"Chen\", email = \"yc2@williams.edu\", role = c(\"aut\", \"cre\"))\nDescription: The package estimates the average age of Williams professors based\n    on the bulletin from 2013-2014.\nDepends:\n    R (>= 3.0.1)\nLicense: CC0\nLazyData: TRUE\nRoxygenNote: 5.0.1\nImports: tm,\n    stringr,\n    utils\nSuggests: knitr,\n    rmarkdown,\n    testthat\nVignetteBuilder: knitr\n",
+    "created" : 1454408189282.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3003260322",
+    "id" : "44F15458",
+    "lastKnownWriteTime" : 1454408194,
+    "path" : "~/Desktop/AverageAge/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "dcf"
+}

@@ -1,0 +1,17 @@
+{
+    "contents" : "library(\"AverageAge\")\ncontext(\"General Test\")\n\ntest_that(\"The average age is the correct number\",{\n  expect_equal(Average(), 50.17568-4.32e-06)\n})\ntest_that(\"Maximum is the correct number\",{\n  expect_equal(Max(), 79)\n})\ntest_that(\"Minimum is the correct number\",{\n  expect_equal(Min(),26)\n})\ntest_that(\"Range is the correct number\",{\n  expect_equal(Range(),79-26)\n})\ntest_that(\"Dataset is in the right form\",{\n  expect_output(actualData, \" [1:370, 1]\")\n})\n",
+    "created" : 1454390347443.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2395420780",
+    "id" : "8B317819",
+    "lastKnownWriteTime" : 1454391124,
+    "path" : "~/Desktop/AverageAge/tests/testthat/testgeneral.r",
+    "project_path" : "tests/testthat/testgeneral.r",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

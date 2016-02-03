@@ -1,0 +1,17 @@
+{
+    "contents" : "devtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nformatR::tidy_dir(\"R\")\nload(pdftotext)\nload(\"pdftotext\")\nload(\"pdftotext\")\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nactualData\ndevtools::load_all()\ndevtools::load_all()\naverage\naverage()\ndevtools::load_all()\nAverage()\ndevtools::load_all()\nBaMat\nactualData\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nactualtext\ndevtools::load_all()\nsource('~/AverageAge/R/AverageAge.R', echo=TRUE)\ndevtools::load_all()\nsource('~/AverageAge/R/AverageAge.R', echo=TRUE)\ndevtools::load_all()\nsource('~/AverageAge/R/AverageAge.R', echo=TRUE)\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nactualtext <<- paste(readLines(uri2), collapse=\"\\n\")\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nsource('~/AverageAge/R/AverageAge.R', echo=TRUE)\nAverage()\nAverage()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nAverage()\ndevtools::load_all()\nAverage()\ndevtools::load_all()\nAverage()\ndevtools::load_all()\nAverage()\ntxt\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nfile.info(uri2)\nfile.info(bulletin2013_14.txt)\nfile.info(uri2)\ndevtools::load_all()\nsource('~/AverageAge/R/AverageAge.R', echo=TRUE)\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\ndevtools::load_all()\nBaTxt\nAverage()\ndevtools::load_all()\nAverage()\ndevtools::load_all()\nRange(0)\nRange()\ndevtools::load_all()\nRange()\ndevtools::load_all()\nhist(actualData)\nhist(actualData,main=\"Distribution of Age\",xlab=\"Age\")\ndevtools::load_all()\nPlot()\nMin()\nPlot()\ndevtools::load_all()\nPlot()\ndevtools::load_all()\nok()\nok()\nok()\ndevtools::load_all()\ngplot(actualData)\ninstall.packages(ggplot2)\ninstall.packages(\"ggplot2\")\ngplot(actualData)\nlibrary(ggplot2)\ngplot(actualData)\nggplot(actualData)\ninstall.packages(c(\"devtools\", \"roxygen2\", \"testthat\", \"knitr\"))\ndevtools::load_all()\ninstall.packages(\"tm\")\ninstall.packages(\"stringr\")\ninstall.packages(\"stringr\")\ndevtools::load_all()\nAverage()\ndevtools::load_all()\nPrintAll()\nPrintAll()\ndevtools::load_all()\nPrintAll()\ndevtools::load_all()\nPrintAll()\nPrintAll()\nPrintAll()\ndevtools::load_all()\nPrintAll()\ndevtools::load_all()\ndevtools::document()\ndevtools::load_all()\nPrintAll()\ndevtools::use_vignette(\"Average-vignette\")\n",
+    "created" : 1454396353233.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "320428545",
+    "id" : "A3DFB419",
+    "lastKnownWriteTime" : 1454311792,
+    "path" : "~/Desktop/AverageAge/.Rhistory",
+    "project_path" : ".Rhistory",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "type" : "r_history"
+}

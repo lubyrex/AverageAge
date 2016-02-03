@@ -1,0 +1,17 @@
+{
+    "contents" : "context(\"general test\")\n\nlibrary(AverageAge)\n\ntest_that(\"Maximum is the correct number\",{\n  expect_equal(AverageAge::Max(), 79)\n})\ntest_that(\"multiplication works\", {\n  expect_equal(2 * 2, 4)\n})\n",
+    "created" : 1454458720244.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2008259271",
+    "id" : "89B0F499",
+    "lastKnownWriteTime" : 1454458919,
+    "path" : "~/Desktop/AverageAge/tests/testthat/test-test_AverageAge.R",
+    "project_path" : "tests/testthat/test-test_AverageAge.R",
+    "properties" : {
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

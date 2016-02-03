@@ -1,0 +1,17 @@
+{
+    "contents" : "library(testthat)\nlibrary(AverageAge)\n\ntest_check(\"AverageAge\")\n",
+    "created" : 1454409752422.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2399758070",
+    "id" : "49E3CA2F",
+    "lastKnownWriteTime" : 1454389595,
+    "path" : "~/Desktop/AverageAge/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

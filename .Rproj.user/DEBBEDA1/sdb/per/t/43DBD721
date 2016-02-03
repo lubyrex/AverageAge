@@ -1,0 +1,17 @@
+{
+    "contents" : "^.*\\.Rproj$\n^\\.Rproj\\.user$\n^data-raw$\n",
+    "created" : 1454389951084.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2625920424",
+    "id" : "43DBD721",
+    "lastKnownWriteTime" : 1454395349,
+    "path" : "~/Desktop/AverageAge/.Rbuildignore",
+    "project_path" : ".Rbuildignore",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "text"
+}

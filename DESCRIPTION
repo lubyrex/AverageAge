@@ -1,0 +1,21 @@
+Package: AverageAge
+Type: Package
+Title: An Estimate of Williams Professors' Average Age
+Version: 0.1
+Date: 2016-01-24
+Authors@R: person("Youle", "Chen", email = "yc2@williams.edu", role = c("aut", "cre"))
+Description: The package estimates the average age of Williams professors based
+    on the bulletin from 2013-2014.
+Depends:
+    R (>= 3.0.1)
+License: CC0
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports: tm,
+    stringr,
+    utils
+Suggests: knitr,
+    rmarkdown,
+    testthat,
+    devtools
+VignetteBuilder: knitr

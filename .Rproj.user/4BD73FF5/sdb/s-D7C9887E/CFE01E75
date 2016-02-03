@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"AverageAge\"\nauthor: \"Youle Chen\"\ndate: \"`r Sys.Date()`\"\noutput: rmarkdown::html_vignette\nvignette: >\n  %\\VignetteIndexEntry{AverageAge}\n  %\\VignetteEngine{knitr::rmarkdown}\n  %\\VignetteEncoding{UTF-8}\n---\n## Introduction\n\nThe AverageAge package collects data from Williams College's 2013-2014 Bulletin and estimates the age of faculty members. It provides several functions that prints out basic information of the estimated data.\n\n## Running AverageAge\nTo run AverageAge, you may choose any of the 6 functions:\n\n1. `Average()`\n1. `Range()`\n1. `Maximum()`\n1. `Minimum()`\n1. `PlotHist()`\n1. `PrintAll()`\n\nFor example, `AverageAge()` will return `[1] 50.17568`.\n\n## Onload function\nUpon loading the package, it either downloads the data from web or grabs data from the data folder and parse the data to create a data matrix: `actualData`. Then by calling the different functions, it calculates the properties of the data and print them out.\n\n## Estimation method\nWe assume that the year is 2015 (since 2016 just began) and that everyone graduated with an AB,BA,BS degree when they were 22 years old. Then the package collects data from the faculty section, and creates a matrix with estimated age of the faculty members.\n",
+    "created" : 1454408155773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3839781665",
+    "id" : "CFE01E75",
+    "lastKnownWriteTime" : 1454408349,
+    "path" : "~/Desktop/AverageAge/vignettes/Average-vignette.Rmd",
+    "project_path" : "vignettes/Average-vignette.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

@@ -2,7 +2,7 @@
 title: "AverageAge"
 author: "Youle Chen"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
+output: pdf_document
 vignette: >
   %\VignetteIndexEntry{AverageAge}
   %\VignetteEngine{knitr::rmarkdown}

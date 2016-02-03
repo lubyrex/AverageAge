@@ -5,7 +5,7 @@
 # https://gist.github.com/benmarwick/11333467 downloads
 # the file
 
-.onLoad <- function(libname,pkgname)
+.onAttach <- function(libname,pkgname)
 {
 required <<- 0
 actualData <<- NULL
